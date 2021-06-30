@@ -11,7 +11,7 @@ title                    : "Aurélien Hazan"
 title_separator          : "-"
 name                     : &name "Aurélien Hazan"
 description              : &description "Assistant professor"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://a874h.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "a874h.github.io/hazan/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Aurélien Hazan"
   avatar           : "profile.png"
   bio              : "I am an assistant professor in Université Paris-Est Créteil (UPEC)"
   location         : "Paris"
   employer         :
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "http://scholar.google.com/citations?user=CB1P43UAAAAJ&hl=fr&citsig=AMD79oqrj-FuGaPD1U0S1pPKx5tsbU4Q9Q"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Aurelien-Hazan" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "a874h"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-1556-8374"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
