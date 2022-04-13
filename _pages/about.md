@@ -40,9 +40,9 @@ Research at [LISSI](http://lissi.fr) (Image, Signal and Intelligent Systems lab)
 
 
 ## Contact Address
-Aurélien Hazan
-IUT Sénart-Fontainebleau
-Département Génie Electrique Informatique Industrielle
-36-37 rue Georges Charpak
-77 567 Lieusaint
-France
+Aurélien Hazan  
+IUT Sénart-Fontainebleau  
+Département Génie Electrique Informatique Industrielle  
+36-37 rue Georges Charpak  
+77 567 Lieusaint  
+France  
