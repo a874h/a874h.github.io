@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Mathematics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "UPEC, GEII"
+date: 2021-09-01
+location: "Lieusaint, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Series, power series, Fourier series, introduction to matrices.
+* see [EPREL](https://eprel.u-pec.fr/course/view.php?id=2198)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
