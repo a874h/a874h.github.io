@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: "https://hal.archives-ouvertes.fr/search/index/?q=%2A&authIdHal_s=aurelien-hazan&sort=producedDate_tdate+desc" #/publications/
 
   - title: "Talks"
     url: /talks/    
