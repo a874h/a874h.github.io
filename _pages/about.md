@@ -17,7 +17,7 @@ Research at [LISSI](http://lissi.fr) (Image, Signal and Intelligent Systems lab)
 
 
 ### News and Events
-***Oct 25, 2021** -- Poster at [CCS](https://ccs2021.univ-lyon1.fr) Lyon.
+***Oct 25, 2021*** -- Poster at [CCS](https://ccs2021.univ-lyon1.fr) Lyon.
 ***June 25, 2021*** -- Seminar at CAMS  
 ***May 27, 2021*** -- At [FRCCS'21](https://iutdijon.u-bourgogne.fr/ccs-france/) (French Complex Systems Conference).   
 ***August, 2020*** -- Article in Journal of Complex Networks "A network model of freight data with spatial dependence", OUP, [comnet](https://doi.org/10.1093/comnet/cnaa032), [HAL](https://hal.archives-ouvertes.fr/hal-02872251).  
