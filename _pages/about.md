@@ -17,6 +17,7 @@ Research at [LISSI](http://lissi.fr) (Image, Signal and Intelligent Systems lab)
 
 
 ### News and Events
+***Oct 25, 2021** -- Poster at [CCS](https://ccs2021.univ-lyon1.fr) Lyon.
 ***June 25, 2021*** -- Seminar at CAMS  
 ***May 27, 2021*** -- At [FRCCS'21](https://iutdijon.u-bourgogne.fr/ccs-france/) (French Complex Systems Conference).   
 ***August, 2020*** -- Article in Journal of Complex Networks "A network model of freight data with spatial dependence", OUP, [comnet](https://doi.org/10.1093/comnet/cnaa032), [HAL](https://hal.archives-ouvertes.fr/hal-02872251).  
@@ -31,9 +32,9 @@ Research at [LISSI](http://lissi.fr) (Image, Signal and Intelligent Systems lab)
 ### Short Bio
 
 * 2011- : Associate professor, [UPEC](http://www.u-pec.fr), IUTSF, GEII.
-* 2008-2011: Postdoc researcher, applied statistics at [SAMM](http://samm.univ-paris1.fr), industrial contract for Snecma (part of SAFRAN).
+* 2008-2011: Postdoc researcher, applied statistics at [SAMM](http://samm.univ-paris1.fr), industrial contract (Snecma/Safran).
 * 2003-2007: PhD at Université Evry-Val-d'Essonne, [IBISC](https://www.ibisc.univ-evry.fr/) lab.
-* 2002-2003: Master in Cognitive Sciences, [Université Paris-Sud](http://u-psud.fr), [LIMSI](http://www.limsi.fr) lab.
+* 2002-2003: Master in Cognitive Sciences, [Université Paris-Sud](http://u-psud.fr).
 * 1999-2002: Engineering diploma, applied physics, ENSPM (now [Ecole Centrale Marseille](http://www.centrale-marseille.fr/‎) ).
 
 
