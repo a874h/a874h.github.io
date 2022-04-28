@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* 2011- : Associate professor, [UPEC](http://www.u-pec.fr), IUTSF, GEII.
+* 2003-2007: PhD at [Université d'Evry](https://www.univ-evry.fr/accueil.html)
+   * Analysis of robot/environment interaction, sensorimotor network.
+   * Phd manuscript [HAL](https://hal.archives-ouvertes.fr/tel-00259445v1).
+   * At [IBISC](https://www.ibisc.univ-evry.fr/) lab.
+   * Supervisors: H.Maaref, V.Vigneron. Collaboration: F. Davesne, M.Mossio, B.Saulnier.
+* 2002-2003: Master in Cognitive Sciences, [Université Paris-Sud](http://u-psud.fr).
+* 1999-2002: Engineering diploma, applied physics, ENSPM (now [Ecole Centrale Marseille](http://www.centrale-marseille.fr/‎) ).
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2008-2011: Postdoc researcher. 
+  * Applied statistics at [SAMM](http://samm.univ-paris1.fr).
+  * Turbofan vibration analysis. Extreme events. Spectral and wavelet domain.
+  * Industrial collaboration with Snecma/Safran (Jérôme [Lacaille](https://www.researchgate.net/profile/Jerome-Lacaille)).
+  * Supervision: [Marie Cottrell](https://samm.univ-paris1.fr/-Marie-Cottrell-), [Michel Verleysen](https://perso.uclouvain.be/michel.verleysen/).
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Network analysis.
+* Machine learning.
+
 
 Publications
 ======
@@ -54,6 +56,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
