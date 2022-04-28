@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 
-* 2011- : Associate professor, [UPEC](http://www.u-pec.fr), IUTSF, GEII.
 * 2003-2007: PhD at [Université d'Evry](https://www.univ-evry.fr/accueil.html)
    * Analysis of robot/environment interaction, sensorimotor network.
    * Phd manuscript [HAL](https://hal.archives-ouvertes.fr/tel-00259445v1).
@@ -25,6 +24,7 @@ Education
 Work experience
 ======
 
+* 2011- : Associate professor, [UPEC](http://www.u-pec.fr), IUTSF, GEII.
 * 2008-2011: Postdoc researcher. 
   * Applied statistics at [SAMM](http://samm.univ-paris1.fr).
   * Turbofan vibration analysis. Extreme events. Spectral and wavelet domain.
