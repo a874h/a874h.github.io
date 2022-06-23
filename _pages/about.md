@@ -17,6 +17,7 @@ Research at Image, Signal and Intelligent Systems lab [LISSI](http://lissi.fr).
 
 
 ### News and Events
+***July 25th, 2022*** -- at [Netsci'22](https://netsci2022.net/).    
 ***June 20th, 2022*** -- will be at [FRCCS'22](https://iscpif.fr/frccs2022/) (French Complex Systems Conference).     
 ***Oct 25th, 2021*** -- Poster at [CCS](https://ccs2021.univ-lyon1.fr) Lyon.  
 ***June 25th, 2021*** -- Seminar at CAMS  
