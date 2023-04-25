@@ -15,7 +15,7 @@ Electrical Engineering and automation department at [IUT Sénart-Fontainebleau](
 
 
 Research  
-======
+--------
 
 * complex networks analysis. 
 * signals defined on networks.
