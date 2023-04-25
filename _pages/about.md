@@ -14,7 +14,7 @@ Associate professor at [Université Paris-Est Créteil Val-de-Marne](http://www.
 Electrical Engineering and automation department at [IUT Sénart-Fontainebleau](http://www.iutsf.u-pec.fr/) (Institute of Technology), see our [youtube](http://www.youtube.com/channel/UC3_Xzi9Oz02SLp8VzgNRUfw) channel. 
 
 
-### Research  
+## Research  
 
 * complex networks analysis. 
 * signals defined on networks.
@@ -32,7 +32,7 @@ Reproducible research: see my code on [gitlab](https://gitlab.com/hazaa)
 
 --------------
 
-### Short Bio
+## Short Bio
 
 * 2011- : Associate professor, [UPEC](http://www.u-pec.fr), IUTSF, GEII.
 * 2008-2011: Postdoc researcher, applied statistics at [SAMM](http://samm.univ-paris1.fr), industrial collaboration with Snecma/Safran.
