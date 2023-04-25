@@ -12,4 +12,4 @@ citation: 'Hazan, A. (2023). &quot;Production process networks: a trophic analys
 In this article, production process databases originating from environmental sciences, more specifically from life cycle inventory (LCI), are considered as bipartite directed random networks. To model the observed directed hierarchical connection patterns, we turn to recent development concerning trophic coherence. Extending the scope to include bipartite networks, we compare several LCI networks to networks from other fields, and show empirically that they have high coherence and belong to the loopless regime, or close to its boundary.
 
 
-![fig](files/ELCD_bitmap.png)
+![fig](https://a874h.github.io/files/ELCD_bitmap.png)
