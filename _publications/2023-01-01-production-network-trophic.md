@@ -2,9 +2,9 @@
 title: "Production process networks: a trophic analysis"
 collection: publications
 permalink: /publication/2023-01-01-production-network-trophic 
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: #'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-01-01
-venue: 'Journal 1'
+venue: #'Journal 1'
 paperurl: 'https://doi.org/10.1088/2632-072X/acbd7c'
 citation: 'Hazan, A. (2023). &quot;Production process networks: a trophic analysis.&quot; <i>Journal of Physics:Complexity</i>. 4(015011).'
 ---
