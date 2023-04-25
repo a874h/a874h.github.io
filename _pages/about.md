@@ -14,7 +14,8 @@ Associate professor at [Université Paris-Est Créteil Val-de-Marne](http://www.
 Electrical Engineering and automation department at [IUT Sénart-Fontainebleau](http://www.iutsf.u-pec.fr/) (Institute of Technology), see our [youtube](http://www.youtube.com/channel/UC3_Xzi9Oz02SLp8VzgNRUfw) channel. 
 
 
-## Research  
+Research  
+======
 
 * complex networks analysis. 
 * signals defined on networks.
