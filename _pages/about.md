@@ -25,6 +25,8 @@ Member of Image, Signal and Intelligent Systems lab [LISSI](http://lissi.fr).
 Reproducible research: see my code on [gitlab](https://gitlab.com/hazaa)
 
 ### News and Events
+***Apr., 2024*** -- welcome to our new AI intern [Hakim](https://www.linkedin.com/in/abdoul-hakim-ahamada) at [LISSI](http://lissi.fr) and IBISC.
+***Apr., 2024*** -- welcome to [Maëlle](https://www.linkedin.com/in/ma%C3%ABlle-chamault-9b1609174), in charge of computing the carbon footprint of [UPEC](https://www.u-pec.fr).
 ***Jan., 2023*** -- article in Journal of Physics: Complexity, "Production process networks: a trophic analysis", [www](https://doi.org/10.1088/2632-072X/acbd7c), [HAL](https://hal.u-pec.fr/hal-03623260).   
 ***July 25th, 2022*** -- article at [Netsci'22](https://netsci2022.net/).    
 ***June 20th, 2022*** -- article at [FRCCS'22](https://iscpif.fr/frccs2022/) (French Complex Systems Conference).     
